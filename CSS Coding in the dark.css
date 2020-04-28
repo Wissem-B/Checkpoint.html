@@ -1,0 +1,48 @@
+#Headtitle {
+    color: whitesmoke;
+    font-size: xx-large;
+    font-weight: bold;
+background-image: url(banana.jpeg) ;
+border-image-width: 30px;    }
+
+#ArticleTitle {
+    color: darkblue;   
+    font-size: x-large;
+    font-weight: bold; 
+}
+.ContentTtile{
+    margin: 1cm;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.fontstyle {
+    font-style: helvetica;
+}
+
+#Bodystyle {
+    margin : 3cm
+}
+
+.GreyBox {
+    box-sizing: border-box;
+    background-color: darkgrey;
+    margin: 1mm;
+    border-color: darkgrey;
+    padding: 2cm;
+    
+
+}
+
+.BlackBox{
+    box-sizing: border-box;
+    background-color: black;
+    margin: 1mm;
+    border-color: black;
+    padding: 2cm;
+    color: white;
+
+}
+#Bigbox{
+    align-items: flex-start;
+}
